@@ -1,6 +1,6 @@
 # Trivia Scorer
 
-This is the Trivia Scorer kata in JavaScript
+This is the Trivia Scorer kata in JavaScript. It can easily be adapted to other languages.
 
 # Kata Instructions
 
