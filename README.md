@@ -25,6 +25,6 @@ This kata is designed to practice Test Driven Development.
 The kata requirements are given in sequential files in order to encourage working in small steps.
 
 
-Kata created by [Shawn Button](mailto:shawn@leanintuit.ca) of [LeanIntuit](http://www.leanintuit.ca)
+Kata created by [Shawn Button](mailto:shawn@leanintuit.com) of [LeanIntuit](http://www.leanintuit.com)
 
 Happy Mobbing / Pairing!
