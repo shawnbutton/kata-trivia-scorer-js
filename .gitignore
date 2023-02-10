@@ -1,6 +1,10 @@
+node_modules/
+
 # ide files
 .idea/
 
-node_modules/
+# OS stuff
+.DS_Store
+img.png
 
 
